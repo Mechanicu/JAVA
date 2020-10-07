@@ -1,6 +1,5 @@
-//package homework2.hw2_1;
+// package homework2.hw2_1;
 import java.util.Scanner;
-
 public class Box {
     private double lenth;
     private double width;
