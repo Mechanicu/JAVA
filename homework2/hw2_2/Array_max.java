@@ -1,4 +1,4 @@
-package homework2.hw2_2;
+// package homework2.hw2_2;
 import java.util.Scanner;
 public class Array_max {
     private long[] array = new long[10];

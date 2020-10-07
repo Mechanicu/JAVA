@@ -1,4 +1,4 @@
-package homework2.hw2_2;
+// package homework2.hw2_2;
 public class mainf {
     public static void main(String args[]){
         Array_max arrmax = new Array_max();
