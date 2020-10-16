@@ -1,4 +1,4 @@
-//package homework2.hw2_8;
+package homework2.hw2_8;
 
 abstract class Shape {
     public abstract double area();
