@@ -1,4 +1,4 @@
-//package homework2.hw2_5;
+package homework2.hw2_5;
 
 import java.util.Scanner;
 public class Student {

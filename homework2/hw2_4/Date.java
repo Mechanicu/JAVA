@@ -1,4 +1,4 @@
-//package homework2.hw2_4;
+package homework2.hw2_4;
 
 import java.util.Scanner;
 public class Date {

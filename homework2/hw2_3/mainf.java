@@ -1,4 +1,4 @@
-//package homework2.hw2_3;
+package homework2.hw2_3;
 
 public class mainf {
     public static void main(String args[]){

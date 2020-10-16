@@ -1,4 +1,4 @@
-// package homework2.hw2_1;
+package homework2.hw2_1;
 public class mainf {
     public static void main(String args[]){
         Box box1 = new Box();

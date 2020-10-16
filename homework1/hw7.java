@@ -1,3 +1,4 @@
+package homework1;
 //import java.util.Scanner;
 public class hw7 {
     public static int count(char p[])

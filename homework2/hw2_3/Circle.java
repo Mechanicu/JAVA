@@ -1,4 +1,4 @@
-//package homework2.hw2_3;
+package homework2.hw2_3;
 
 import java.util.Scanner;
 public class Circle {

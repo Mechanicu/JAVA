@@ -26,6 +26,9 @@ class Student1 extends Student{
     private String age;
     private String addr;
     Student monitor;
+    
+    public Student1(){};
+    
     public Student1(String num_stu, String name_stu, String age, String addr, String num_mon, String name_mon){
         super(num_stu, name_stu);
         this.age = age;
@@ -38,7 +41,8 @@ class Student1 extends Student{
         System.out.printf("the name of the student: %s\n", get_name());
         System.out.printf("the age of the student: %s\n", this.age);
         System.out.printf("the address of the student: %s\n", this.addr); 
-        System.out.printf("monitor name: %s\n", monitor.get_name());
-        System.out.printf("monitor name: %s\n", monitor.get_num());
+        
+        // System.out.printf("monitor name: %s\n", monitor.get_name());
+        // System.out.printf("monitor num: %s\n", monitor.get_num());
     }
 }
